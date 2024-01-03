@@ -1,0 +1,7 @@
+#man{
+    color: blue;
+    padding: 10px;
+    border: solid 15px red;
+    margin: 10px;
+    inline-size: 250px;
+}
